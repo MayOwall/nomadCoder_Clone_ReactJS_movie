@@ -42,3 +42,4 @@
 - [x] section3.6 : State Practice part One
 - [x] section3.7 : State Practice part Two
 - [x] section3.8 : Recap
+- [x] section3.9 : Final Practice and Recap
