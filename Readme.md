@@ -37,3 +37,5 @@
 - [x] section3.1 : setState part One
 - [x] section3.2 : setState part Two
 - [x] section3.3 : Recap
+- [x] section3.4 : State Functions
+- [x] section3.5 : Inputs and State

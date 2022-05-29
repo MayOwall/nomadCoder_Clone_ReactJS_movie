@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <div id="root"></div>
+
+    <script
+      src="https://unpkg.com/react@17/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+      /*for는 자바스크립트 예약어이므로, JSX내부에서 사용해선 안된다.
+      for 대신 htmlFor 사용하기*/
+      function App() {
+        const [minutes, setMinutes] = React.useState("");
+        const onChange = (event) => {
+          setMinutes((current) => event.target.value);
+        };
+        return (
+          <div>
+            <h1>Super Converter</h1>
+            <label htmlFor="minutes">Minutes</label>
+            <input
+              value={minutes}
+              id="minutes"
+              placeholder="Minutes"
+              type="number"
+              onChange={onChange}
+            />
+            <div>you want to convert {minutes}</div>
+            <br />
+            <label htmlFor="hours">Hours</label>
+            <input id="hours" placeholder="Hours" type="number" />
+          </div>
+        );
+      }
+
+      const root = document.getElementById("root");
+      ReactDOM.render(<App />, root);
+    </script>
+  </body>
+</html>
