@@ -16,15 +16,24 @@
 
 ### 2022.05.28
 
-- master에서 main으로 변경
+#### section2
 
-  #### section2
+- [x] section2.5 : JSX
+- [x] section2.6 : JSX part Two
 
-  - [x] section2.5 : JSX
-  - [x] section2.6 : JSX part Two
+<br>
 
-  <br>
+#### section3
 
-  #### section3
+- [x] section3.0 : Understanding State
 
-  - [x] section3.0 : Understanding State
+<br>
+<br>
+
+### 2022.05.28
+
+#### section3
+
+- [x] section3.1 : setState part One
+- [x] section3.2 : setState part Two
+- [x] section3.3 : Recap
