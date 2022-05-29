@@ -40,3 +40,4 @@
 - [x] section3.4 : State Functions
 - [x] section3.5 : Inputs and State
 - [x] section3.6 : State Practice part One
+- [x] section3.7 : State Practice part Two
