@@ -39,3 +39,4 @@
 - [x] section3.3 : Recap
 - [x] section3.4 : State Functions
 - [x] section3.5 : Inputs and State
+- [x] section3.6 : State Practice part One
