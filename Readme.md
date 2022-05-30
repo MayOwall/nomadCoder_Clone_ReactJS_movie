@@ -43,3 +43,8 @@
 - [x] section3.7 : State Practice part Two
 - [x] section3.8 : Recap
 - [x] section3.9 : Final Practice and Recap
+
+#### section4
+
+- [x] section4.0 : Props
+- [x] section4.1 : Memo
