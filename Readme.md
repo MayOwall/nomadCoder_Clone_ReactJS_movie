@@ -65,3 +65,9 @@
 
 - [x] section5.0 : Introduction
 - [x] section5.1 : Tour of CRA
+
+<br>
+
+#### section6 EFFECTS
+
+- [x] section6.0 : Introduction
