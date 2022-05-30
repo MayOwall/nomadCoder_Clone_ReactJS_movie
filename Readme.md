@@ -72,3 +72,4 @@
 
 - [x] section6.0 : Introduction
 - [x] section6.1 : useEffect
+- [x] section6.2 : Deps
