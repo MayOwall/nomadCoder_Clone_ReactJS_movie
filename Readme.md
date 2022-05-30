@@ -49,4 +49,5 @@
 - [x] section4.0 : Props
 - [x] section4.1 : Memo
 - [x] section4.2 : Prop-Types
+- [x] section4.3 : Recap
 
