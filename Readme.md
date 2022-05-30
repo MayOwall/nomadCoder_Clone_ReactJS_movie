@@ -7,7 +7,7 @@
 
 ### 시작일 : 2022.05.28
 
-### 종료일 : 2022.05.30(예정)
+### 종료일 : 2022.06.01(예정)
 
 <br>
 <br>
@@ -44,6 +44,11 @@
 - [x] section3.8 : Recap
 - [x] section3.9 : Final Practice and Recap
 
+<br>
+<br>
+
+### 2022.05.30
+
 #### section4
 
 - [x] section4.0 : Props
@@ -51,3 +56,11 @@
 - [x] section4.2 : Prop-Types
 - [x] section4.3 : Recap
 
+<br>
+<br>
+
+### 2022.05.31
+
+#### section5 CREATE REACT APP
+
+- [x] section5.0 : Introduction
