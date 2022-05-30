@@ -74,3 +74,4 @@
 - [x] section6.1 : useEffect
 - [x] section6.2 : Deps
 - [x] section6.3 : Recap
+- [x] section6.4 : Cleanup
