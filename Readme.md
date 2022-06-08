@@ -75,3 +75,13 @@
 - [x] section6.2 : Deps
 - [x] section6.3 : Recap
 - [x] section6.4 : Cleanup
+
+<br>
+<br>
+
+### 2022.06.07
+
+#### section7
+
+- [x] section7.0 : To Do List part One
+- [x] section7.1 : To Do List part Two
