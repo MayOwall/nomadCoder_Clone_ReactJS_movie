@@ -97,3 +97,5 @@
 #### section7
 
 - [x] section7.3 : Movie App part One
+- [x] section7.4 : Movie App part Two
+- [x] section7.5 : React Router
