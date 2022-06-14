@@ -91,3 +91,9 @@
 #### section7
 
 - [x] section7.2 : Coin Tracker
+
+### 2022.06.15
+
+#### section7
+
+- [x] section7.3 : Movie App part One
